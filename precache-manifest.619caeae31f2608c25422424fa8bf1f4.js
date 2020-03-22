@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c1d2d1e25f4f1175331ff500b10048e",
+    "revision": "1f5cc48282b234541eed824a90cd70ac",
     "url": "/Cafeteer-Bistro/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cafeteer-Bistro/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "840db3ae185fd2d238a1",
+    "revision": "eb41fb8c5ab4662bc45f",
     "url": "/Cafeteer-Bistro/static/css/main.6cd3cdc6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cafeteer-Bistro/static/js/2.9a116180.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "840db3ae185fd2d238a1",
-    "url": "/Cafeteer-Bistro/static/js/main.9a396c31.chunk.js"
+    "revision": "eb41fb8c5ab4662bc45f",
+    "url": "/Cafeteer-Bistro/static/js/main.4a2b4af9.chunk.js"
   },
   {
     "revision": "b4f932f72ccfbf09538d",
