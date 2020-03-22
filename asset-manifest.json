@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cd3cdc6.chunk.css",
-    "main.js": "/static/js/main.fb187038.chunk.js",
-    "main.js.map": "/static/js/main.fb187038.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6891b072.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6891b072.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.9a116180.chunk.js": "/static/js/2.9a116180.chunk.js",
-    "static/js/2.9a116180.chunk.js.map": "/static/js/2.9a116180.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9a958f7a4815719edc4a6ae97b5445d7.js": "/precache-manifest.9a958f7a4815719edc4a6ae97b5445d7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.6cd3cdc6.chunk.css.map": "/static/css/main.6cd3cdc6.chunk.css.map",
-    "static/js/2.9a116180.chunk.js.LICENSE.txt": "/static/js/2.9a116180.chunk.js.LICENSE.txt",
-    "static/media/drinkImg.jpg": "/static/media/drinkImg.fca53bb3.jpg",
-    "static/media/foodImg.jpg": "/static/media/foodImg.8732f8f4.jpg",
-    "static/media/sweetImg.jpg": "/static/media/sweetImg.c307b6d9.jpg"
+    "main.css": "/Cafeteer-Bistro/static/css/main.6cd3cdc6.chunk.css",
+    "main.js": "/Cafeteer-Bistro/static/js/main.9a396c31.chunk.js",
+    "main.js.map": "/Cafeteer-Bistro/static/js/main.9a396c31.chunk.js.map",
+    "runtime-main.js": "/Cafeteer-Bistro/static/js/runtime-main.aa823107.js",
+    "runtime-main.js.map": "/Cafeteer-Bistro/static/js/runtime-main.aa823107.js.map",
+    "static/css/2.de424728.chunk.css": "/Cafeteer-Bistro/static/css/2.de424728.chunk.css",
+    "static/js/2.9a116180.chunk.js": "/Cafeteer-Bistro/static/js/2.9a116180.chunk.js",
+    "static/js/2.9a116180.chunk.js.map": "/Cafeteer-Bistro/static/js/2.9a116180.chunk.js.map",
+    "index.html": "/Cafeteer-Bistro/index.html",
+    "precache-manifest.08d725c654b83ace46e66f3c39c2605c.js": "/Cafeteer-Bistro/precache-manifest.08d725c654b83ace46e66f3c39c2605c.js",
+    "service-worker.js": "/Cafeteer-Bistro/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Cafeteer-Bistro/static/css/2.de424728.chunk.css.map",
+    "static/css/main.6cd3cdc6.chunk.css.map": "/Cafeteer-Bistro/static/css/main.6cd3cdc6.chunk.css.map",
+    "static/js/2.9a116180.chunk.js.LICENSE.txt": "/Cafeteer-Bistro/static/js/2.9a116180.chunk.js.LICENSE.txt",
+    "static/media/drinkImg.jpg": "/Cafeteer-Bistro/static/media/drinkImg.fca53bb3.jpg",
+    "static/media/foodImg.jpg": "/Cafeteer-Bistro/static/media/foodImg.8732f8f4.jpg",
+    "static/media/sweetImg.jpg": "/Cafeteer-Bistro/static/media/sweetImg.c307b6d9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6891b072.js",
+    "static/js/runtime-main.aa823107.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.9a116180.chunk.js",
     "static/css/main.6cd3cdc6.chunk.css",
-    "static/js/main.fb187038.chunk.js"
+    "static/js/main.9a396c31.chunk.js"
   ]
 }
