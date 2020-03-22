@@ -1,6 +1,12 @@
-.Banner img {
-    margin-top: 1rem;
-    width: 100%;
-    height: 40vh;
-    object-fit: cover;
+.Banner {
+    .carousel {
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.37);
+    }
+
+    img {
+        margin-top: 1rem;
+        width: 100%;
+        height: 40vh;
+        object-fit: cover;
+    }
 }
