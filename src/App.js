@@ -14,7 +14,7 @@ const App = () => {
                 <div className='App'>
                     <Header />
                     <Switch>
-                        <Route path='/' component={Banner} />
+                        <Route path='/Cafeteer-Bistro' component={Banner} />
                     </Switch>
                 </div>
             </ScrollToTop>
