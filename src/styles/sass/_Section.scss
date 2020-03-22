@@ -1,16 +1,19 @@
 @import '../Mixins';
 
 .Section {
-    margin-top: .3rem;
+    padding: 1rem;
     width: 100%;
 
     section {
         @include flexContent(space-around, row);
 
+        margin: 0.9rem 0 0.9rem 0;
         padding: 1rem 3rem;
         width: 100%;
-        border: .5px solid rgb(178, 231, 214);
-        background: rgb(168, 56, 59);
+        border: 0.5px solid #fff;
+        border-radius: 0.5rem;
+        background: rgb(255, 138, 138);
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.253);
 
         .item-tab {
             width: 20%;
@@ -26,7 +29,7 @@
             width: 80%;
             color: #fff;
             text-align: left;
-            
+
             h4 {
                 width: 100%;
             }

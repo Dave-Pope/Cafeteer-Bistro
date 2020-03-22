@@ -34,7 +34,7 @@
 }
 
 .Section {
-  margin-top: .3rem;
+  padding: 1rem;
   width: 100%;
 }
 
@@ -51,10 +51,14 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+  margin: 0.9rem 0 0.9rem 0;
   padding: 1rem 3rem;
   width: 100%;
-  border: 0.5px solid #b2e7d6;
-  background: #a8383b;
+  border: 0.5px solid #fff;
+  border-radius: 0.5rem;
+  background: #ff8a8a;
+  -webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.253);
+          box-shadow: 0 3px 10px rgba(0, 0, 0, 0.253);
 }
 
 .Section section .item-tab {
